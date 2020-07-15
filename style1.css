@@ -1,0 +1,67 @@
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding-top: 200px;
+font-size: 75px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 100;
+color: rgb(0, 45,129);
+}
+
+.leftTop img{
+position: absolute;
+top: 30%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.rightTop img{
+position: absolute;
+top: 30%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.leftBottom img{
+position: absolute;
+top: 80%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.rightBottom img{
+position: absolute;
+top: 80%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.leftArrow img{
+position: absolute;
+top: 105%;
+left: 5%;
+transform: translate(-50%,-50%);
+}
+
+.rightArrow img{
+position: absolute;
+top: 105%;
+left: 95%;
+transform: translate(-50%,-50%);
+}
+
+.center img{
+position: absolute;
+top: 15%;
+left: 35%;
+transform: translate(-50%-50%);
+}
+
+.leftCenter img{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    transform: translate(-50%-50%);
+       
+}
